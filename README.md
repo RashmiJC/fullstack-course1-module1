@@ -7,3 +7,7 @@ This is the repository for the PDF files of the slides from Module 1. Each modul
 Feel free to explore the resources.
 
 Happy learning !
+
+
+i'm editing this file to check how git diff works...  
+
